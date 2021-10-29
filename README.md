@@ -21,7 +21,7 @@
 
 [나의 챗봇 깃헙페이지](https://jhkohyes.github.io/PIZZADAY/)
 [나의 챗봇 깃헙페이지](https://sinnara2021.github.io/pizzabesll/)
-
+![Image].(https://cdn.pixabay.com/photo/2013/08/09/05/54/layer-170971__340.jpg)
 
 [Link](url) and ![Image](src)
 ```
